@@ -5,6 +5,7 @@
 
 # 1to50-Game-Hack
 A python project to finish the 1 to 50 Game within 2 secs 😎 using Tesseract OCR engine
+![Demo](https://imgur.com/1r5etl3.gif)
 
 # Description
 This is a fun project i made for solving the 1to50 game available at https://zzzscore.com/1to50/en/
